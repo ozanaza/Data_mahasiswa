@@ -1,0 +1,7 @@
+body { background: #f4f6fb; }
+.app-header { background: linear-gradient(135deg, #1e3a8a, #3b82f6); }
+.stat-card { background: #fff; border-radius: 12px; padding: 1rem 1.25rem; box-shadow: 0 2px 8px rgba(0,0,0,.06); height: 100%; }
+.stat-label { font-size: .8rem; color: #6b7280; text-transform: uppercase; letter-spacing: .03em; }
+.stat-value { font-size: 1.8rem; font-weight: 700; }
+.table thead th { white-space: nowrap; font-weight: 600; }
+.table-responsive { border-radius: 12px; }

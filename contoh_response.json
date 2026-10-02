@@ -1,0 +1,10 @@
+{
+  "status": "success",
+  "data": [
+    { "row": 2, "nim": "231001", "nama": "Andi",  "poin1": 55, "poin2": 85, "poin3": 90 },
+    { "row": 3, "nim": "231002", "nama": "Budi",  "poin1": 75, "poin2": 80, "poin3": 85 },
+    { "row": 4, "nim": "231003", "nama": "Citra", "poin1": 90, "poin2": 88, "poin3": 95 },
+    { "row": 5, "nim": "231004", "nama": "Putra", "poin1": 88, "poin2": 86, "poin3": 90 },
+    { "row": 6, "nim": "231005", "nama": "Putri", "poin1": 75, "poin2": 50, "poin3": 55 }
+  ]
+}
